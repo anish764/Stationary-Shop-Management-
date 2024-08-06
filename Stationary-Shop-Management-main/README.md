@@ -19,11 +19,9 @@ for more informaton aboout CRM https://en.wikipedia.org/wiki/Customer_relationsh
 
 
 ## Authors
+Anish Marade
 
-- [@SohamG934](https://github.com/SohamG934)
-- [@YashPimple](https://github.com/YashPimple)
-- [@RohitPimpale](https://github.com/Titanpimpale)
-
+- 
 ## Contributing
 
 Contributions are always welcome!
@@ -118,7 +116,7 @@ connecting frontend and backend :A code connects frontend and backend
 
 ## Support
 
-For support,  contact - [@SohamG934](https://github.com/SohamG934)
+For support,  contact - Anish Marade-8237449234
 
 
 ## Related
